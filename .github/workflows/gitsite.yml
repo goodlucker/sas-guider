@@ -42,8 +42,6 @@ jobs:
       - name: Install GitSite
         run:
           npm install gitsite-cli -g
-      - name: Ensure themes directory
-        run: mkdir -p themes
       - name: Build with GitSite
         run:
           # set output dir to '_site' for pages jobs:
