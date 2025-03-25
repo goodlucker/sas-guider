@@ -22,9 +22,9 @@ site:
   git:
     base-url: https://github.com/goodlucker/awesome/blob/main/source
   contact:
-    name: Michael Liao
+    name: Rick Xu
+    email: 1053769941@qq.com
     github: https://github.com/goodlucker/awesome
-    twitter: https://twitter.com/liaoxuefeng
   books:
     index-marker: true
   search:
