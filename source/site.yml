@@ -1,6 +1,6 @@
 site:
-  title: GitSite
-  description: GitSite is a static web site generator for Git.
+  title: SAS Work Site
+  description: This site is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
   theme: default
   language: en-US
@@ -24,7 +24,6 @@ site:
   contact:
     name: Rick Xu
     github: https://github.com/goodlucker/awesome
-    twitter: https://twitter.com/liaoxuefeng
   books:
     index-marker: true
   search:
