@@ -20,7 +20,7 @@ site:
       uri: https://github.com/goodlucker/awesome/discussions
       external: true
   git:
-    base-url: https://github.com/goodlucker/awesome/blob/main/source
+    base-url: https://github.com/goodlucker/awesome/main/source
   contact:
     name: Rick Xu
     github: https://github.com/goodlucker/awesome
