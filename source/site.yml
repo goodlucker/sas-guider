@@ -2,7 +2,7 @@ site:
   title: SAS Work Site
   description: This site is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
-  theme: default
+  theme: themes/default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
