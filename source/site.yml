@@ -11,11 +11,11 @@ site:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
     - title: User Guide
-      uri: /books/gitsite-guide/index.html
+      uri: /awesome/books/gitsite-guide/index.html
     - title: Blogs
-      uri: /blogs/tech/index.html
+      uri: /awesome/blogs/tech/index.html
     - title: License
-      uri: /pages/license/index.html
+      uri: /awesome/pages/license/index.html
     - title: Discuss
       uri: https://github.com/goodlucker/awesome/discussions
       external: true
