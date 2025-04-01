@@ -20,7 +20,7 @@ site:
       uri: https://github.com/goodlucker/sas-guider/discussions
       external: true
   git:
-    base-url: https://github.com/goodlucker/sas-guider/main/source
+    base-url: https://github.com/goodlucker/sas-guider/blob/main/source
   contact:
     name: Rick Xu
     github: https://github.com/goodlucker/sas-guider
