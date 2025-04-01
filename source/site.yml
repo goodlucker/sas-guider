@@ -6,7 +6,7 @@ site:
   language: en-US
   # set the /<rootPath> pathname under which your site is served
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
-  root-path: /awesome
+  root-path: /sas-guider
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
@@ -16,14 +16,14 @@ site:
       uri: /blogs/tech/index.html
     - title: License
       uri: /pages/license/index.html
-    - title: Discuss
-      uri: https://github.com/goodlucker/awesome/discussions
+    - title: Q&A
+      uri: https://github.com/goodlucker/sas-guider/discussions
       external: true
   git:
-    base-url: https://github.com/goodlucker/awesome/main/source
+    base-url: https://github.com/goodlucker/sas-guider/main/source
   contact:
     name: Rick Xu
-    github: https://github.com/goodlucker/awesome
+    github: https://github.com/goodlucker/sas-guider
     twitter: https://twitter.com/goodlucker
   books:
     index-marker: true
