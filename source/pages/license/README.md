@@ -1,3 +1,3 @@
 # MIT License
 
-CCopyright 2025 Rick Xu
+Copyright 2025 Rick Xu

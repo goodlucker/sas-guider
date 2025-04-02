@@ -12,6 +12,8 @@ site:
   navigation:
     - title: User Guide
       uri: /books/gitsite-guide/index.html
+    - title: SAS Base
+      uri: /books/SAS-Base/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
@@ -52,5 +54,4 @@ build:
     - favicon.ico
     - robots.txt
     - ads.txt
-
 # you can add any items:
