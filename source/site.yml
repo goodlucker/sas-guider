@@ -10,10 +10,10 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: User Guide
+    - title: Homepage
       uri: /books/gitsite-guide/index.html
-    - title: SAS Base
-      uri: /books/SAS-Base/index.html
+    - title: SAS
+      uri: /books/SAS/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
