@@ -1,4 +1,4 @@
-# Organization, Guidance and Website in China
+# China
 
 1. NMPA
 2. CDE

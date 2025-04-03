@@ -14,19 +14,19 @@ site:
       uri: /books/00-Organization-Guidance-Website/index.html
     - title: SAS
       uri: /books/01-SAS/index.html
-    - title: SAS
+    - title: Statistics
       uri: /books/02-Statistics/index.html
-    - title: SAS
+    - title: CDISC
       uri: /books/03-CDISC/index.html
-    - title: SAS
+    - title: XML
       uri: /books/04-XML/index.html
-    - title: SAS
+    - title: BAT
       uri: /books/05-BAT/index.html
-    - title: SAS
+    - title: VB
       uri: /books/06-VB/index.html
-    - title: SAS
+    - title: Python
       uri: /books/07-Python/index.html
-    - title: SAS
+    - title: R
       uri: /books/08-R/index.html
     - title: Blogs
       uri: /blogs/tech/index.html

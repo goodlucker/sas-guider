@@ -1,4 +1,4 @@
-# Organization, Guidance and Website in US
+# US
 
 1. ICH
 2. NIH
