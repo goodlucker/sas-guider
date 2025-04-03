@@ -10,10 +10,24 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: Homepage
-      uri: /books/gitsite-guide/index.html
+    - title: Organization-Guidance-Website
+      uri: /books/00-Organization-Guidance-Website/index.html
     - title: SAS
-      uri: /books/SAS/index.html
+      uri: /books/01-SAS/index.html
+    - title: SAS
+      uri: /books/02-Statistics/index.html
+    - title: SAS
+      uri: /books/03-CDISC/index.html
+    - title: SAS
+      uri: /books/04-XML/index.html
+    - title: SAS
+      uri: /books/05-BAT/index.html
+    - title: SAS
+      uri: /books/06-VB/index.html
+    - title: SAS
+      uri: /books/07-Python/index.html
+    - title: SAS
+      uri: /books/08-R/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
