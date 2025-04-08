@@ -1,5 +1,5 @@
 site:
-  title: SAS Work Site
+  title: SAS Work Site Homepage
   description: This site is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
   theme: default
@@ -10,8 +10,8 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: Organization-Guidance-Website
-      uri: /books/00-Organization-Guidance-Website/index.html
+    - title: Guidance
+      uri: /books/00-Guidance/index.html
     - title: SAS
       uri: /books/01-SAS/index.html
     - title: Statistics
@@ -39,7 +39,7 @@ site:
     base-url: https://github.com/goodlucker/sas-guider/blob/main/source
   contact:
     name: Rick Xu
-    github: https://github.com/goodlucker/sas-guider
+    # github: https://github.com/goodlucker/sas-guider
     twitter: https://twitter.com/goodlucker
   books:
     index-marker: true
