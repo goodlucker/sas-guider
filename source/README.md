@@ -1,4 +1,4 @@
-# SAS Work Site Homepage
+# Homepage
 
 This site collect and summarize the resources from the sas programmer's daily life. Any thoughts and opinions could be meaningful and worthness. Check the following navigations for your uses.
 
