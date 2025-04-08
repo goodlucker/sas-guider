@@ -1,5 +1,5 @@
 site:
-  title: SAS Work Site Homepage
+  title: Homepage
   description: This site is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
   theme: default
@@ -13,21 +13,21 @@ site:
     - title: Guidance
       uri: /books/00-Guidance/index.html
     - title: SAS
-      uri: /books/01-SAS/index.html
+      uri: /books/01-SAS/index.html10-SDTM
     - title: Statistics
       uri: /books/02-Statistics/index.html
     - title: CDISC
       uri: /books/03-CDISC/index.html
-    - title: XML
-      uri: /books/04-XML/index.html
-    - title: BAT
-      uri: /books/05-BAT/index.html
-    - title: VB
-      uri: /books/06-VB/index.html
-    - title: Python
-      uri: /books/07-Python/index.html
-    - title: R
-      uri: /books/08-R/index.html
+    # - title: XML
+    #   uri: /books/04-XML/index.html
+    # - title: BAT
+    #   uri: /books/05-BAT/index.html
+    # - title: VB
+    #   uri: /books/06-VB/index.html
+    # - title: Python
+    #   uri: /books/07-Python/index.html
+    # - title: R
+    #   uri: /books/08-R/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
