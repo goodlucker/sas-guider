@@ -2,7 +2,7 @@
 
 This site collect and summarize the resources from the sas programmer's daily life. Any thoughts and opinions could be meaningful and worthness. Check the following navigations for your uses.
 
-## [Guidance](/sas-guider/books/Guidance/index.html)
+## [Guidance](/sas-guider/books/00-Guidance/ich/index.html)
 **行业标准与法规**  
    - **ICH指南**：重点整理ICH E9（临床试验统计学原则）、ICH E3（临床研究报告结构）等与统计编程相关的指导文件，解释其在临床试验数据管理中的具体应用。  
    - **GCP（药物临床试验质量管理规范）**：强调数据完整性与伦理合规性，提供GCP与SAS编程结合的案例分析。  
