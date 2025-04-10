@@ -1,5 +1,0 @@
-# US
-
-## ICH
-## NIH
-## FDA

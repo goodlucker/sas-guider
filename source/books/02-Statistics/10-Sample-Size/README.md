@@ -1,3 +1,3 @@
-# 样本量
+# Sample-Size
 
 Input the description here
