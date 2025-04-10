@@ -60,4 +60,4 @@ This site collect and summarize the resources from the sas programmer's daily li
 # [R](/books/r/index.html) -->
 
 -----------
-# [Blogs](/blogs/index.html)
+# [Blogs](/sas-guider/blogs/index.html)
