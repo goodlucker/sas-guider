@@ -9,7 +9,7 @@ This site collect and summarize the resources from the sas programmer's daily li
    - **CDISC标准**：单独设立板块（见第四部分），与行业规范联动说明其重要性。
 
 -----------
-## [SAS](/books/sas/index.html)
+## [SAS](/sas-guider/books/01-sas/General-Introduction/index.html)
 **核心模块与技术应用**  
    - **Base SAS**：  
      - 数据清洗与转换（如`PROC SORT`、`DATA STEP`逻辑控制）；  
