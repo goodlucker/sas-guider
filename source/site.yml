@@ -13,7 +13,7 @@ site:
     - title: Guidance
       uri: /books/00-Guidance/index.html
     - title: SAS
-      uri: /books/01-SAS/index.html10-SDTM
+      uri: /books/01-SAS/index.html
     - title: Statistics
       uri: /books/02-Statistics/index.html
     - title: CDISC
