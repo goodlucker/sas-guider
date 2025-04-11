@@ -1,5 +1,17 @@
-# 常用网站
+# SAS程序员常用资源
 
-| 常用网站 |
-| -------- | 
-| [Markdown使用指南](https://www.zspace.cn/help/?cid=0&articleId=100233)   | 
+以下是一些对SAS程序员有用的网站资源。
+
+| 网站简述                                                                             | 网站链接                                                                                                                                                   |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SAS官方网站**：提供SAS软件、解决方案、文档和支持。                                 | [https://www.sas.com/](https://www.sas.com/)                                                                                                               |
+| **SAS技术支持**：SAS官方的技术支持门户，包含知识库、论坛等。                         | [https://support.sas.com/](https://support.sas.com/)                                                                                                       |
+| **SAS社区**：SAS用户的在线社区，可以提问、分享经验和学习。                           | [https://communities.sas.com/](https://communities.sas.com/)                                                                                               |
+| **SAS博客**：SAS专家的博客，分享SAS编程技巧、最佳实践等。                            | [https://blogs.sas.com/](https://blogs.sas.com/)                                                                                                           |
+| **Lex Jansen's SAS Pages**：SAS专家Lex Jansen的个人网站，包含大量SAS编程技巧和示例。 | [http://www.lexjansen.com/](http://www.lexjansen.com/)                                                                                                     |
+| **The SAS Training Post**：提供SAS培训课程和资源。                                   | [https://www.the-sas-training-post.com/](https://www.the-sas-training-post.com/)                                                                           |
+| **Statistical Analysis Using SAS**：提供SAS统计分析的教程和示例。                    | [https://stats.idre.ucla.edu/sas/](https://stats.idre.ucla.edu/sas/)                                                                                       |
+| **Stack Overflow (SAS tag)**：Stack Overflow上关于SAS的问题和答案。                  | [https://stackoverflow.com/questions/tagged/sas](https://stackoverflow.com/questions/tagged/sas)                                                           |
+| **GitHub**：搜索SAS相关的开源项目和代码。                                            | [https://github.com/search?q=sas](https://github.com/search?q=sas)                                                                                         |
+| **SAS Global Forum**：SAS全球论坛的论文集和演示文稿。                                | [https://support.sas.com/events/sasglobalforum/index.html](https://support.sas.com/events/sasglobalforum/index.html)                                       |
+| **ODS Graphics Gallery**：SAS ODS Graphics示例。                                     | [https://communities.sas.com/t5/SAS-Graphics/ODS-Graphics-Gallery/td-p/56994](https://communities.sas.com/t5/SAS-Graphics/ODS-Graphics-Gallery/td-p/56994) |
