@@ -32,14 +32,14 @@ site:
       uri: /blogs/tech/index.html
     - title: License
       uri: /pages/license/index.html
-    - title: Q&A
-      uri: https://github.com/goodlucker/sas-guider/discussions
-      external: true
+    # - title: Q&A
+    #  uri: https://github.com/goodlucker/sas-guider/discussions
+    #  external: true
   git:
-    base-url: https://github.com/goodlucker/sas-guider/blob/main/source
+  base-url: https://github.com/goodlucker/sas-guider/blob/main/source
   contact:
-    name: Rick Xu
-    # github: https://github.com/goodlucker/sas-guider
+    name: goodlucker
+    github: https://github.com/goodlucker/sas-guider
     twitter: https://twitter.com/goodlucker
   books:
     index-marker: true
@@ -50,14 +50,14 @@ site:
     type: browser
   # control styles:
   styles:
-    # show 'Edit in Git':
-    display-git-link: true
+    show 'Edit in Git':
+    # display-git-link: true
     # any custom styles used in theme:
     # code-font: Monaco
   integration:
     comment:
       provider: disqus
-      name: gitsite
+      name: goodlucker
     analytics:
       provider: google
       gtag: G-5Z40K7NBL5
