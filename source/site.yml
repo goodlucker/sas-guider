@@ -11,7 +11,7 @@ site:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
     - title: 导航
-      uri: /books/00-导航/index.html
+      uri: /books/00-Nav/index.html
     #- title: Guidance
     #  uri: /books/00-Guidance/index.html
     #- title: SAS
