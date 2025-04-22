@@ -1,34 +1,34 @@
 文档生成执行报告
-生成时间：周二 2025/04/22 18:27:05.61
+生成时间：周二 2025/04/22 18:59:10.48
 ===============================
-成功生成：22 个目录
+成功生成：0 个目录
 
 详细日志见：C:\Users\C00242\AppData\Local\Temp\docgen_周二 22504.log
 
-===== 文档生成日志 周二 2025/04/22 18:27:01.04 =====
-[配置] 根目录：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航
+===== 文档生成日志 周二 2025/04/22 18:59:07.16 =====
+[配置] 根目录：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav
 [配置] 最大路径长度：245
 [配置] 允许的链接：
 
-[18:27:01] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\\README.md
-[18:27:01] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\10-医药监管与指南\README.md
-[18:27:01] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\README.md
-[18:27:01] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\30-统计学核心概念\README.md
-[18:27:02] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\40-CDISC\README.md
-[18:27:02] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\50-工具与资源\README.md
-[18:27:02] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\10-医药监管与指南\10-ICH\README.md
-[18:27:02] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\10-医药监管与指南\20-GCP\README.md
-[18:27:02] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\10-医药监管与指南\30-行业标准与法规\README.md
-[18:27:03] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\10-Encoding\README.md
-[18:27:03] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\20-Function\README.md
-[18:27:03] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\30-Macro\README.md
-[18:27:03] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\40-Report\README.md
-[18:27:04] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\50-GTL\README.md
-[18:27:04] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\60-Perl-Regular-Expression\README.md
-[18:27:04] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\70-STAT\README.md
-[18:27:04] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\20-SAS\80-Other-Tools\README.md
-[18:27:04] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\30-统计学核心概念\10-临床专项\README.md
-[18:27:05] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\30-统计学核心概念\10-试验设计与分析方法\README.md
-[18:27:05] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\40-CDISC\10-SDTM\README.md
-[18:27:05] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\40-CDISC\20-ADaM\README.md
-[18:27:05] SUCCE: 生成：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-导航\40-CDISC\30-Define\README.md
+[18:59:07] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\\README.md
+[18:59:07] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\10-Guidance\README.md
+[18:59:07] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\README.md
+[18:59:07] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\30-Statistics\README.md
+[18:59:07] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\40-CDISC\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\50-Tools\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\10-Guidance\10-ICH\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\10-Guidance\20-GCP\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\10-Guidance\30-Standards\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\10-Encoding\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\20-Function\README.md
+[18:59:08] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\30-Macro\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\40-Report\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\50-GTL\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\60-Perl-Regular-Expression\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\70-STAT\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\20-SAS\80-Other-Tools\README.md
+[18:59:09] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\30-Statistics\10-Clinical\README.md
+[18:59:10] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\30-Statistics\20-Design\README.md
+[18:59:10] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\40-CDISC\10-SDTM\README.md
+[18:59:10] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\40-CDISC\20-ADaM\README.md
+[18:59:10] INFO: 保留已有内容：D:\Work-Folder\9999-github-goodlucker\00-gitsite\sas-guider\source\books\00-Nav\40-CDISC\30-Define\README.md
