@@ -40,7 +40,7 @@ site:
   git:
   base-url: https://github.com/goodlucker/sas-guider/blob/main/source
   contact:
-    name: goodlucker
+    name: Rick
     github: https://github.com/goodlucker/sas-guider
     twitter: https://twitter.com/goodlucker
   books:
