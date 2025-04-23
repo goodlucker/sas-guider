@@ -41,8 +41,8 @@ site:
   base-url: https://github.com/goodlucker/sas-guider/blob/main/source
   contact:
     name: Rick
-    github: https://github.com/goodlucker/sas-guider
-    twitter: https://twitter.com/goodlucker
+    github: https://github.com/Rick/sas-guider
+    twitter: https://twitter.com/Rick
   books:
     index-marker: true
   search:
