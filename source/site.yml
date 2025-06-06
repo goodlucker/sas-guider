@@ -38,7 +38,7 @@ site:
     #  uri: https://github.com/goodlucker/sas-guider/discussions
     #  external: true
   git:
-  base-url: https://www.220929.xyz/sas-guider/blob/main/source
+  base-url: http://www.220929.xyz/sas-guider/blob/main/source
   contact:
     name: Rick
     github: https://github.com/Rick/sas-guider
