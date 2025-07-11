@@ -5,7 +5,6 @@ site:
   theme: default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
-  root-path: /www.220829.xyz
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
   #root-path: /sas-guider
   # set cdn path:
