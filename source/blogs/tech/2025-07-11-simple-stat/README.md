@@ -1,1 +1,0 @@
-# Simple Statistics使用指南
