@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: michaelliao/git-push-action@v3
-        env:
-          PUSH_SSH_KEY: ${{ secrets.PUSH_SSH_KEY }}
-        with:
-          remote_repository: |
-            git@gitlab.com:cryptomichael/gitsite.git
-            git@gitee.com:liaoxuefeng/gitsite.git
-          push_options: "--force"
+      # - uses: michaelliao/git-push-action@v3
+      #  env:
+      #    PUSH_SSH_KEY: ${{ secrets.PUSH_SSH_KEY }}
+      #  with:
+      #    remote_repository: |
+      #      git@gitlab.com:cryptomichael/gitsite.git
+      #      git@gitee.com:liaoxuefeng/gitsite.git
+      #    push_options: "--force"

@@ -1,8 +1,4 @@
 [submodule "themes/default"]
 	path = themes/default
-<<<<<<< HEAD
 	ref = d9dbc4c
 	url = https://github.com/goodlucker/awesome-theme-default.git
-=======
-	url = https://github.com/michaelliao/gitsite-theme-default.git
->>>>>>> c275069fb931221f8ed0abce2aa7543d51acb4a1
