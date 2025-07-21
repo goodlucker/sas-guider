@@ -8,11 +8,7 @@
 
 ```html
 <script>
-// 直接内联的 JavaScript 代码
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('脚本已加载');
-  document.getElementById('demo').textContent = 'Hello from inline JS!';
-});
+<script src="./ui.js"></script>
 </script>
 <div id="sas-control-panel">
   <h2>SAS 程序批量执行</h2>
