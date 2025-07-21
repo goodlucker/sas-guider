@@ -1,4 +1,4 @@
 [submodule "themes/default"]
 	path = themes/default
-	ref = main
+	ref = d9dbc4c
 	url = https://github.com/goodlucker/awesome-theme-default.git
