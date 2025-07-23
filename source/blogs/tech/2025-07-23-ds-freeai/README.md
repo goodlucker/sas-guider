@@ -1,5 +1,6 @@
 # DeepSeek R1 可免费/白嫖网页版一览
-
+* * *
+DeepSeek R1 可免费/白嫖网页版一览
 =======================
 | 序号  |                                                  平台                                                   |  速度  |   版本    |    是否需要登录    |          备注          |
 | :---: | :-----------------------------------------------------------------------------------------------------: | :----: | :-------: | :----------------: | :--------------------: |
@@ -21,5 +22,7 @@
 |  16   |                [Flowith](https://www.tjsky.net/goto/?url=https://flowith.io/ "Flowith")                 | 比较快 |  满血R1   | 不登录存在功能限制 |      有个人知识库      |
 |  17   |          [Deepinfra](https://www.tjsky.net/goto/?url=https://deepinfra.com/chat/ "Deepinfra")           |   快   |  满血R1   |         否         |   无上传附件图片功能   |
 |  18   |   [Nvidia](https://www.tjsky.net/goto/?url=https://build.nvidia.com/deepseek-ai/deepseek-r1 "Nvidia")   |   快   |  满血R1   |         否         |   无上传附件图片功能   |
+
+浏览: 391 次浏览 作者: 去年夏天 分类: [AI](https://www.tjsky.net/category/ai),[佳软推荐](https://www.tjsky.net/category/best-software)发布时间: 2025-03-12 18:06
 
 收集自网络，结合自身体验得出，虽然我更多是用的自己的 DeepSeek API，但是 [R1](https://www.tjsky.net/ai/1130#) 这种思考时，一个不想小心就能想个几千字的玩法，也是有点扛不住，复杂问题还是先找免费的问的差不多了，再用自己的 API 增加体验。毕竟白嫖总是让人开心。
