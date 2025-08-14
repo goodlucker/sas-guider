@@ -2,29 +2,21 @@
 
 以下是使用HTML和JavaScript实现的一个字符转Unicode的网页工具。该工具允许用户输入文本，并将其转换为相应的Unicode编码。
 
-**HTML结构**
+[点击这里查看在线演示](index.html)
 
-```html
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>字符转Unicode工具</title>
-    <link rel="stylesheet" href="unicode.css">
-</head>
-<body>
-    <div class="container">
-        <h1>字符转Unicode工具</h1>
-        <div class="input-group">
-            <textarea id="inputText" placeholder="请输入要转换的文本..."></textarea>
-        </div>
-        <div class="button-group">
-            <button onclick="convertToUnicode()">转换为Unicode</button>
-            <button onclick="copyToClipboard()">复制结果</button>
-            <button onclick="clearInput()">清空</button>
-        </div>
-        <div id="output"></div>
-    </div>
-    <script src="char2unicode.js"></script>
-</body>
-</html>
+## 功能说明
+
+- **字符转Unicode转换**：将输入的文本转换为对应的Unicode编码
+- **复制结果**：一键复制转换结果到剪贴板
+- **清空输入**：清空输入框和输出框
+
+## 使用方法
+
+1. 在文本框中输入要转换的文本
+2. 点击"转换为Unicode"按钮进行转换
+3. 可以点击"复制结果"按钮将结果复制到剪贴板
+4. 点击"清空"按钮清空输入和输出
+
+## 技术实现
+
+该工具使用纯HTML、CSS和JavaScript实现，无需任何外部依赖。支持Unicode代理对的正确处理。
