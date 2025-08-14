@@ -14,6 +14,7 @@
 - **方向键**: 控制蛇的移动方向
 - **开始游戏**: 开始或重新开始游戏
 - **暂停**: 暂停或继续游戏
+- **空格键**: 暂停或继续游戏
 
 <div id="game-area">
   <canvas id="game-canvas" width="400" height="400"></canvas>
@@ -75,6 +76,9 @@ function initGame() {
   
   // 隐藏游戏结束提示
   gameOverElement.style.display = 'none';
+  
+  // 更新按钮文本
+  pauseBtn.textContent = '暂停';
 }
 
 // 生成食物
@@ -98,10 +102,33 @@ function draw() {
   ctx.fillStyle = 'black';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   
+  // 绘制网格线
+  ctx.strokeStyle = '#333';
+  ctx.lineWidth = 0.5;
+  for (let x = 0; x <= canvas.width; x += gridSize) {
+    ctx.beginPath();
+    ctx.moveTo(x, 0);
+    ctx.lineTo(x, canvas.height);
+    ctx.stroke();
+  }
+  for (let y = 0; y <= canvas.height; y += gridSize) {
+    ctx.beginPath();
+    ctx.moveTo(0, y);
+    ctx.lineTo(canvas.width, y);
+    ctx.stroke();
+  }
+  
   // 绘制蛇
-  ctx.fillStyle = 'green';
-  for (let segment of snake) {
-    ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize - 1, gridSize - 1);
+  for (let i = 0; i < snake.length; i++) {
+    // 蛇头使用不同颜色
+    if (i === 0) {
+      ctx.fillStyle = '#00FF00'; // 亮绿色
+    } else {
+      // 蛇身使用渐变颜色
+      const colorValue = Math.max(50, 200 - i * 5);
+      ctx.fillStyle = `rgb(0, ${colorValue}, 0)`;
+    }
+    ctx.fillRect(snake[i].x * gridSize, snake[i].y * gridSize, gridSize - 1, gridSize - 1);
   }
   
   // 绘制食物
@@ -173,6 +200,7 @@ function gameOver() {
   gameRunning = false;
   clearInterval(gameLoop);
   gameOverElement.style.display = 'block';
+  pauseBtn.textContent = '暂停';
 }
 
 // 开始游戏
@@ -180,10 +208,12 @@ function startGame() {
   if (!gameRunning) {
     gameRunning = true;
     gameOverElement.style.display = 'none';
+    if (gameLoop) clearInterval(gameLoop);
     gameLoop = setInterval(() => {
       update();
       draw();
     }, gameSpeed);
+    pauseBtn.textContent = '暂停';
   }
 }
 
@@ -192,6 +222,7 @@ function pauseGame() {
   if (gameRunning) {
     gameRunning = false;
     clearInterval(gameLoop);
+    pauseBtn.textContent = '继续';
   } else {
     startGame();
   }
@@ -211,6 +242,11 @@ function handleKeydown(e) {
       break;
     case 'ArrowRight':
       if (direction !== 'left') nextDirection = 'right';
+      break;
+    case ' ':
+      // 空格键暂停/继续
+      e.preventDefault();
+      pauseGame();
       break;
   }
 }
@@ -271,6 +307,7 @@ button {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 4px;
+  transition: background-color 0.3s;
 }
 
 button:hover {

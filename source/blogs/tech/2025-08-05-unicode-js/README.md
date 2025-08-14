@@ -10,9 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <title>字符转Unicode工具</title>
-    <style src="unicode.css">
-        /* CSS样式 */
-    </style>
+    <link rel="stylesheet" href="unicode.css">
 </head>
 <body>
     <div class="container">
@@ -20,11 +18,13 @@
         <div class="input-group">
             <textarea id="inputText" placeholder="请输入要转换的文本..."></textarea>
         </div>
-        <button onclick="convertToUnicode()">转换为Unicode</button>
+        <div class="button-group">
+            <button onclick="convertToUnicode()">转换为Unicode</button>
+            <button onclick="copyToClipboard()">复制结果</button>
+            <button onclick="clearInput()">清空</button>
+        </div>
         <div id="output"></div>
     </div>
-    <script src="char2unicode.js">
-        // JavaScript代码
-    </script>
+    <script src="char2unicode.js"></script>
 </body>
 </html>
