@@ -1,2 +1,0 @@
-# Encoding
-Input the description.

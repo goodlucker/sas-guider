@@ -14,3 +14,6 @@
 | **GitHub**：搜索SAS相关的开源项目和代码。                                            | [https://github.com/search?q=sas](https://github.com/search?q=sas)                                                                                         |
 | **SAS Global Forum**：SAS全球论坛的论文集和演示文稿。                                | [https://support.sas.com/events/sasglobalforum/index.html](https://support.sas.com/events/sasglobalforum/index.html)                                       |
 | **ODS Graphics Gallery**：SAS ODS Graphics示例。                                     | [https://communities.sas.com/t5/SAS-Graphics/ODS-Graphics-Gallery/td-p/56994](https://communities.sas.com/t5/SAS-Graphics/ODS-Graphics-Gallery/td-p/56994) |
+| Define.xml 生成工具  | [https://www.cdisc.org/define-xml](https://www.cdisc.org/define-xml)                     |
+| PHUSE 开源脚本库     | [https://www.phuse.global/working-groups](https://www.phuse.global/working-groups)       |
+| SDTM/ADaM 检查宏示例 | [https://github.com/phuse-org/phuse-scripts](https://github.com/phuse-org/phuse-scripts) |

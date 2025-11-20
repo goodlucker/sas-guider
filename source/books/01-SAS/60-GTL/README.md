@@ -1,2 +1,0 @@
-# GTL
-Input the description.
