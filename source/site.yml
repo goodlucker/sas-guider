@@ -15,9 +15,9 @@ site:
     # - title: 导航
     #   uri: /books/00-Nav/index.html
     - title: Guidance
-        uri: /books/00-Guidance/index.html
+      uri: /books/00-Guidance/index.html
     - title: SAS
-        uri: /books/01-SAS/index.html
+      uri: /books/01-SAS/index.html
     #- title: Statistics
     #  uri: /books/02-Statistics/index.html
     #- title: CDISC
