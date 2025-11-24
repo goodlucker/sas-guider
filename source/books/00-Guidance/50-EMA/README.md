@@ -10,7 +10,7 @@
 ## 快速链接
 | 描述 | 链接 |
 | --- | --- |
-| EMA 官网 | https://www.ema.europa.eu/en/homepage |
+| EMA 官网 | [https://www.ema.europa.eu/en/homepage](https://www.ema.europa.eu/en/homepage) |
 
 ## 实务提示
 - 在项目启动阶段确定目标市场（EU/US/CN）并统一数据标准与版本。

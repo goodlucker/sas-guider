@@ -16,11 +16,11 @@
 ## 快速链接
 | 描述 | 链接 |
 | --- | --- |
-| FDA 官网 | https://www.fda.gov/ |
-| Data Standards Resources | https://www.fda.gov/industry/fda-resources-data-standards |
-| Study Data Standards Catalog | https://www.fda.gov/industry/fda-resources-data-standards/study-data-standards-catalog |
-| Study Data Technical Conformance Guide | https://www.fda.gov/industry/fda-resources-data-standards/study-data-technical-conformance-guide |
-| SDTM 技术规范 | https://www.fda.gov/industry/fda-resources-data-standards/study-data-tabulation-model-sdtm |
+| FDA 官网 | [https://www.fda.gov/](https://www.fda.gov/) |
+| Data Standards Resources | [https://www.fda.gov/industry/fda-resources-data-standards](https://www.fda.gov/industry/fda-resources-data-standards) |
+| Study Data Standards Catalog | [https://www.fda.gov/industry/fda-resources-data-standards/study-data-standards-catalog](https://www.fda.gov/industry/fda-resources-data-standards/study-data-standards-catalog) |
+| Study Data Technical Conformance Guide | [https://www.fda.gov/industry/fda-resources-data-standards/study-data-technical-conformance-guide](https://www.fda.gov/industry/fda-resources-data-standards/study-data-technical-conformance-guide) |
+| SDTM 技术规范 | [https://www.fda.gov/industry/fda-resources-data-standards/study-data-tabulation-model-sdtm](https://www.fda.gov/industry/fda-resources-data-standards/study-data-tabulation-model-sdtm) |
 
 ## 实务提示
 - 在 SAS 中建立从原始数据到 SDTM/ADaM 的可追溯流程，生成 Define-XML 并通过校验工具进行一致性检查。

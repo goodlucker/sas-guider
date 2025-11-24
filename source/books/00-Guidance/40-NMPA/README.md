@@ -11,8 +11,8 @@
 ## 快速链接
 | 描述 | 链接 |
 | --- | --- |
-| NMPA 官网 | https://www.nmpa.gov.cn/ |
-| CDE 官网 | https://www.cde.org.cn/ |
+| NMPA 官网 | [https://www.nmpa.gov.cn/](https://www.nmpa.gov.cn/) |
+| CDE 官网 | [https://www.cde.org.cn/](https://www.cde.org.cn/) |
 
 ## 实务提示
 - 关注 CDE 最新指南与公告，结合企业内控规范确定数据标准版本与交付清单。
